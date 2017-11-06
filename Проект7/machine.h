@@ -27,7 +27,7 @@ char getVarName(char *);
 //Функция вычисляющая выражение и возвращающая его знач2ение
 float machine(char *, float*);
 
-float geti(char, machST*, float*);
+float geti(char, machST**, float*);
 
 //Добавление в стек элемента
 machST *push1(machST *, char);

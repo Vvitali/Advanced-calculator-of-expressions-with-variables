@@ -9,3 +9,5 @@ Program will ask you 2 things:
 Also you have to choose execution mode:
 1) Full execution - here you will see just a result of expression.
 2) Tracing mode - in this case program will show you step-by-step process with intermediate results and values of variables.
+
+![alt text](https://github.com/Vvitali/Advanced-calculator-of-expressions-with-variables/blob/master/screenshot.jpg)
